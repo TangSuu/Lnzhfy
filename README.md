@@ -10,7 +10,7 @@
 2.由于ipa在码云上不能正常安装，就将ipa放在GitHub上提供下载服务。
 
 3.下载地址为:
-itms-services://?action=download-manifest&url=https://gitee.com/BlackSugar/Lnzhfy/raw/master/manifest.plist
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/TangSuu/Lnzhfy/master/manifest.plist
 
 
 #### 参与贡献
