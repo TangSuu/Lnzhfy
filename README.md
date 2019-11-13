@@ -1,28 +1,19 @@
 # LN智慧FY
 
 #### 介绍
+通过码云和GitHub平台提供下载APP服务
 
-#### 软件架构
-软件架构说明
+#### 主要内容
 
+1.图片和plist都在码云上。
 
-#### 安装教程
+2.由于ipa在码云上不能正常安装，就将ipa放在GitHub上提供下载服务。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+3.下载地址为:
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/TangSuu/Lnzhfy/master/manifest.plist
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
+SG
 
